@@ -12,7 +12,7 @@
 
 
 * Sou desenvolvedor front-end, apaixonado por tecnologia e em constante busca para aprender coisas novas. </br>
-* Formado em Sistemas de informação na Universidade Estácio de Sá.
+* Formado em Sistemas de informação.
 * Nas horas vagas desbravando cursos, sempre pronto para um novo desafio e focado em novas tecnologias.
 * Atualmente buscando decolocar cada vez mais em React, com meta de aprender, React Native, Next.js e outros.
 </br></br>
